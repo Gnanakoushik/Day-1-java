@@ -4,8 +4,8 @@ public class a{
     {
         PrintWriter pw=new PrintWriter(System.out);
         pw.println("Hello world");
-        pw.println("This ia Pranathi");
-        pw.println("Statement");
+        pw.print("This ia Pranathi");
+        pw.print("Statement");
         pw.close();
     
     }
